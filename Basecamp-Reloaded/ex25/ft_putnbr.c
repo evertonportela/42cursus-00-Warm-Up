@@ -19,7 +19,7 @@ void	ft_putchar(char c)
 
 void	ft_putnbr(int nb)
 {
-	int	number;
+	unsigned int	number;
 
 	if (nb < 0)
 	{
